@@ -1,0 +1,37 @@
+@import 'bulma';
+
+.container-book{
+    padding:20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(177, 162, 162);
+    background-color: white;
+    box-shadow: 0px 0px 3px 3px #888888;
+}
+
+body{
+    background-color: #f7f8fc;
+}
+
+.title-book{
+    font-weight: bold;
+}
+
+.header-books{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-single-book{
+    display: flex;
+    justify-content: space-between;   
+}
+
+.show{
+    color: blue;
+}
+
+.link {
+    margin-top: 10;
+   text-align: right;
+}
