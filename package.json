@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "@hot-loader/react-dom": "^16.8.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bulma": "^0.8.2",
     "connected-react-router": "^6.3.2",
     "react": "^16.8.6",
